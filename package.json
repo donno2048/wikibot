@@ -1,0 +1,27 @@
+{
+  "name": "wikibot",
+  "version": "1.0.0",
+  "description": "Give wiki data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donno2048/wikibot.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "Wikipedia"
+  ],
+  "author": "Elisha Hollander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donno2048/wikibot/issues"
+  },
+  "homepage": "https://github.com/donno2048/wikibot#readme",
+  "dependencies": {
+    "venom-bot": "^3.0.9",
+    "wikipedia": "^1.0.3"
+  }
+}
